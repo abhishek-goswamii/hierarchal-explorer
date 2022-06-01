@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hierarchal-explorer/static/css/main.38456504.css",
+    "main.js": "/hierarchal-explorer/static/js/main.2a44c4e3.js",
+    "index.html": "/hierarchal-explorer/index.html",
+    "main.38456504.css.map": "/hierarchal-explorer/static/css/main.38456504.css.map",
+    "main.2a44c4e3.js.map": "/hierarchal-explorer/static/js/main.2a44c4e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38456504.css",
+    "static/js/main.2a44c4e3.js"
+  ]
+}
